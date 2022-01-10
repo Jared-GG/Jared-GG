@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jared-GG, jaredgg.eth jaredgg.sol jared.gg
-- 👀 I’m interested in Network Engineering, Arista, Cisco, Palo Alto, Python
-- 🌱 I’m currently learning Python and Arista
-- 💞️ I’m looking to collaborate on Beginner Studies, Python Scripting for Network Engineers
+- 👀 I’m a Network Engineer, and have a strong interest in Web3/NFT/Crypto/Blockchain and the like.
+- 🌱 I’m currently learning Solidity via cryptozombies and hoping to attend NFT Hack 2022
+- 💞️ I’m looking to collaborate with others in the Web3 space to publish our own NFTs
 - 📫 How to reach me jared.gg, discord (JaredGG.eth#5262)
 
 <!---
